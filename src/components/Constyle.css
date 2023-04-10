@@ -1,0 +1,23 @@
+.header{
+    border: 2px solid red;
+    background-color: blueviolet;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.icon-active{
+    transform: rotate(180deg);
+}
+.content{
+    border: 2px solid yellow;
+    display: none;
+}
+.content-active{
+    display: block;
+}
+.gg{
+    background-color:beige;
+}
+
